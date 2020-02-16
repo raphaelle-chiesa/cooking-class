@@ -1,0 +1,12 @@
+.Button{
+background-color:#F5F5DC;
+padding:15px 20px ;
+border-radius: 4px;
+color:black;
+font-weight: bold;
+font-family: Amatic SC;
+}
+	
+a:hover{
+  color:#696969;
+}
